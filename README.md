@@ -1,0 +1,1 @@
+The Library Management System, implemented in C++, uses Binary Search Trees (BST) to manage books and students. It allows students to issue/return books and check availability. Key classes include `student`, `book`, `bst_student`, `bst_book`, and `studentRequest`. Each student can issue up to 2 books, with availability dynamically updated.
